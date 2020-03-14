@@ -17,7 +17,7 @@ public class HomepageObjects
 	@FindBy(xpath="//span[@class='mc-hd__login-btn']")
 	public static WebElement Signin;
 	
-	
+	//Test
 	/*
 	public static WebElement Register(WebDriver driver) 
 	{
